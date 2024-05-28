@@ -1,0 +1,10 @@
+[
+    {
+        "role": "Software Engineer Intern",
+        "organisation": "Capital One",
+        "startDate": "June 2024",
+        "endDate": "August 2024",
+        "experience": ["line 1","line 2"],
+        "imageSrc": "history/capitalone.png"
+    }
+]

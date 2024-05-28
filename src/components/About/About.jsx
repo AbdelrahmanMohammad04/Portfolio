@@ -4,10 +4,33 @@ import { getImageUrl } from "../../utils";
 
 export const About = () => {
     return (
-        <section>
-            <h2>About</h2>
-            <div>
-                <img src={getImageUrl("about/aboutImage.png")} />
+        <section className={styles.container} id="about">
+            <h2 className={styles.title}>About</h2>
+            <div className={styles.content}>
+                <img className={styles.aboutImg} src={getImageUrl("about/aboutImage.png")} />
+                <ul className={styles.aboutItems}>
+                    <li className={styles.aboutItem}>
+                        <img src={getImageUrl("about/cursorIcon.png")}/>
+                        <div className={styles.aboutItemText}>
+                            <h3>Software Engineer</h3>
+                            <p>I am a software engineer with experience in TODO</p>
+                        </div>
+                    </li>
+                    <li className={styles.aboutItem}>
+                        <img src={getImageUrl("about/serverIcon.png")}/>
+                        <div className={styles.aboutItemText}>
+                            <h3>Software Engineer</h3>
+                            <p>I am a software engineer with experience in TODO</p>
+                        </div>
+                    </li>
+                    <li className={styles.aboutItem}>
+                        <img src={getImageUrl("about/uiIcon.png")}/>
+                        <div className={styles.aboutItemText}>
+                            <h3>Software Engineer</h3>
+                            <p>I am a software engineer with experience in TODO</p>
+                        </div>
+                    </li>
+                </ul>
             </div>
         </section>
     )
