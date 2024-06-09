@@ -4,7 +4,7 @@
         "organisation": "Capital One",
         "startDate": "June 2024",
         "endDate": "August 2024",
-        "experience": ["line 1","line 2"],
+        "experience": ["Contributed to a project with two other interns to help reduce toil by creating an automated service to handle non-actionable alerts in order to reduce false alarm fatigue and allowing more time to be allocated towards feature development","Utilized GoLang, AWS, and CICD"],
         "imageSrc": "history/capitalone.png"
     }
 ]
