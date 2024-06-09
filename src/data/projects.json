@@ -1,0 +1,34 @@
+[
+    {
+        "title": "A-Shell",
+        "imageSrc": "projects/project.png",
+        "desc": "A-shell (Abe-shell) is a custom basic shell that implements pipe, batch file and interactive modes, environment and shell variables, history, and built-in commands",
+        "skills": ["C"],
+        "demo": "https://www.example.com",
+        "source": "https://github.com/AbdelrahmanMohammad04/A-shell"
+    },
+    {
+        "title": "Snuz Commerce",
+        "imageSrc": "projects/project.png",
+        "desc": "E-commerce website for mattresses",
+        "skills": ["JavaScript", "React", "Node"],
+        "demo": "https://www.example.com",
+        "source": "https://github.com/AbdelrahmanMohammad04/snuz-ecommerce"
+    },
+    {
+        "title": "Santa's Cart",
+        "imageSrc": "projects/project.png",
+        "desc": "Developed a Target Price Drop and Alert Website for buying gifts during Holiday Season as a submission for MadHacks Fall 2023",
+        "skills": ["JavaScript", "React", "Python", "Django"],
+        "demo": "https://www.example.com",
+        "source": "https://github.com/AbdelrahmanMohammad04/santas-cart"
+    },
+    {
+        "title": "Debug AI",
+        "imageSrc": "projects/project.png",
+        "desc": "Received First Place in 24 hour long Hackathon with Capital One's Tech Minimester program",
+        "skills": ["Node", "CLI"],
+        "demo": "https://www.example.com",
+        "source": "https://github.com/AbdelrahmanMohammad04/DebugAI"
+    }
+]
