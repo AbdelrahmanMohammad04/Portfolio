@@ -31,7 +31,7 @@
     font-size: 25px;
     color: var(--color-text);
     text-decoration: none;
-    transition: 1s;
+    transition: 0.5s;
 }
 
 .menuItems a:hover {
