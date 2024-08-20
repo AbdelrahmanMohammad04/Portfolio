@@ -1,13 +1,15 @@
 @import "../../vars.css";
 
 .navbar {
-    position: relative;
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding-top: 61px;
     z-index: 2;
-    margin: 0 10%;
+    padding-left: 10%;
+    position: fixed;
+    background-color: var(--color-bg);
+    height: 10%;
+    width: 100%;
 }
 
 .title {
@@ -15,10 +17,13 @@
     font-weight: 600;
     text-decoration: none;
     color: var(--color-text);
+    padding-right: auto;
 }
 
 .menu {
     display: flex;
+    margin-left: auto;
+    margin-right: 10%;
 }
 
 .menuItems {
@@ -46,6 +51,9 @@
     .navbar {
         flex-direction: column;
         align-items: flex-start;
+        margin: 0 10%;
+        position: fixed;
+        background-color: var(--color-bg);
     }
 
     .menu {
