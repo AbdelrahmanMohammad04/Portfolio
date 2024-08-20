@@ -4,7 +4,14 @@
         "organisation": "Capital One",
         "startDate": "June 2024",
         "endDate": "August 2024",
-        "experience": ["Contributed to a project with two other interns to help reduce toil by creating an automated service to handle non-actionable alerts in order to reduce false alarm fatigue and allowing more time to be allocated towards feature development","Utilized GoLang, AWS, and CICD"],
+        "experience": 
+        [
+        "Worked on the enterprise technology team where I developed a program to identify and reduce toil alerts sent to on-call engineers by 42.4%, with a total of over 70,000 alerts that came in over a period of 5 days",
+        "Developed a lambda function in GoLang to parse incoming requests and run app specific New Relic queries",
+        "Implemented a caching system to reduce calls to New Relic, reducing the need to re-run recently ran queries and increased lambda function speed by 80%",
+        "Coordinated with other teams to collect app information and discuss decisions made on dropped alerts",
+        "Utilized GoLang, AWS, and New Relic"
+        ],
         "imageSrc": "history/capitalone.png"
     }
 ]
