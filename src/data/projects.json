@@ -9,7 +9,7 @@
     },
     {
         "title": "Snuz Commerce",
-        "imageSrc": "projects/project.png",
+        "imageSrc": "projects/Snuz.png",
         "desc": "E-commerce website for mattresses",
         "skills": ["JavaScript", "React", "Node"],
         "demo": "https://www.example.com",
