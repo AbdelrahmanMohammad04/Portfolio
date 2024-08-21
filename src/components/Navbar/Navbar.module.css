@@ -54,6 +54,7 @@
         /* margin: 0 10%; */
         position: fixed;
         background-color: var(--color-bg);
+        height: 7%;
     }
 
     .menu {
