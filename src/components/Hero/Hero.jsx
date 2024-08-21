@@ -16,9 +16,13 @@ export const Hero = () => {
                 <Typical className={styles.description} loop={Infinity} wrapper="b"
                         steps={[
                             'Software Engineer',
-                            5000,
+                            3000,
                             'Developer',
-                            5000,
+                            3000,
+                            'Computer Scientist',
+                            3000,
+                            'Wisconsin Badger!',
+                            3000,
                         ]}
                     />
                 <a className={styles.contactBtn} href="mailto:AbdelrahmanMohammad89@gmail.com">Contact Me</a>
