@@ -1,7 +1,7 @@
 [
     {
         "title": "A-Shell",
-        "imageSrc": "projects/project.png",
+        "imageSrc": "projects/a-shell.png",
         "desc": "A-shell (Abe-shell) is a custom basic shell that implements pipe, batch file and interactive modes, environment and shell variables, history, and built-in commands",
         "skills": ["C"],
         "demo": "https://www.example.com",
@@ -17,7 +17,7 @@
     },
     {
         "title": "Santa's Cart",
-        "imageSrc": "projects/project.png",
+        "imageSrc": "projects/santacart.png",
         "desc": "Developed a Target Price Drop and Alert Website for buying gifts during Holiday Season as a submission for MadHacks Fall 2023",
         "skills": ["JavaScript", "React", "Python", "Django"],
         "demo": "https://www.example.com",
