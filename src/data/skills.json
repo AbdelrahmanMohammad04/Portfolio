@@ -12,6 +12,14 @@
         "imageSrc": "skills/c.png"
     },
     {
+        "title": "C++",
+        "imageSrc": "skills/cpp.png"
+    },
+    {
+        "title": "Rust",
+        "imageSrc": "skills/rust.png"
+    },
+    {
         "title": "JavaScript",
         "imageSrc": "skills/js.png"
     },
