@@ -12,22 +12,22 @@ export const About = () => {
                     <li className={styles.aboutItem}>
                         <img src={getImageUrl("about/cursorIcon.png")}/>
                         <div className={styles.aboutItemText}>
-                            <h3>Software Engineer</h3>
-                            <p>I am a software engineer with experience in TODO</p>
+                            <h3>Systems Engineer</h3>
+                            <p>I have experience in low level and systems programming</p>
                         </div>
                     </li>
                     <li className={styles.aboutItem}>
                         <img src={getImageUrl("about/serverIcon.png")}/>
                         <div className={styles.aboutItemText}>
                             <h3>Software Engineer</h3>
-                            <p>I am a software engineer with experience in TODO</p>
+                            <p>I have experience in backend development</p>
                         </div>
                     </li>
                     <li className={styles.aboutItem}>
                         <img src={getImageUrl("about/uiIcon.png")}/>
                         <div className={styles.aboutItemText}>
-                            <h3>Software Engineer</h3>
-                            <p>I am a software engineer with experience in TODO</p>
+                            <h3>Site Reliability Engineer</h3>
+                            <p>I have experience in site reliability</p>
                         </div>
                     </li>
                 </ul>

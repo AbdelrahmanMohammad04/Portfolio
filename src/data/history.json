@@ -4,7 +4,11 @@
         "organisation": "Capital One",
         "startDate": "June 2024",
         "endDate": "August 2024",
-        "experience": ["line 1","line 2"],
+        "experience": 
+        [
+        "Worked on the enterprise technology team where I developed a program to identify and reduce toil alerts sent to on-call engineers by 42.4%, with a total of over 70,000 alerts that came in over a period of 5 days",
+        "Utilized GoLang, AWS, and New Relic"
+        ],
         "imageSrc": "history/capitalone.png"
     }
 ]

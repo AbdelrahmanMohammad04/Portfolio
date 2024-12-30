@@ -9,7 +9,7 @@ import { Projects } from './components/Projects/Projects'
 function App() {
 
   return (
-    <div className={styles.App}>
+    <div className={styles.App} id="app">
       <Navbar />
       <Hero />
       <About />

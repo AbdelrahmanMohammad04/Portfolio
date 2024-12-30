@@ -19,6 +19,10 @@ export const Hero = () => {
                             5000,
                             'Developer',
                             5000,
+                            'Computer Scientist',
+                            5000,
+                            'Wisconsin Badger! 🦡',
+                            5000,
                         ]}
                     />
                 <a className={styles.contactBtn} href="mailto:AbdelrahmanMohammad89@gmail.com">Contact Me</a>
